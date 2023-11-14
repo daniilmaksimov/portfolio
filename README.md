@@ -6,7 +6,7 @@
 
 | Продукт | Функционал "Личные события" | 
 |---|---|
-| Заказчик | ![](assets/skyeng-logo-light_2.png) |
+| Заказчик | <img src=assets/skyeng-logo-light_2.png width="130" height="20"> |
 | Сайт | Расписание [teachers.skyeng.ru](https://teachers.skyeng.ru/schedule) |
 | Исполнитель | Студент 3-го курса, QA44, Максимов Д. С. |
 | Окружение | Операционная система: Windows 10 Pro x64 Версия: 21H2Сборка ОС: 19044.2965 Браузер: Google Chrome Версия 113.0.5672.127 (Официальная сборка), (64 бит) |
