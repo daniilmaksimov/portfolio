@@ -51,6 +51,7 @@
 </details>
 
 ## 🔎 Декомпозиция
+
 <img src="assets/decomposition.PNG" alt="Decomposition"/>
 
 [Miro](https://miro.com/app/board/uXjVMC9ROLI=/?share_link_id=277424855356)
