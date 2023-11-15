@@ -18,13 +18,13 @@
 
 ## 🛠 Виды тестирования:
 
-[Smoke](https://app.qase.io/project/QW1?suite=2)
+[Smoke](https://drive.google.com/file/d/1v-HuvkwAJllK_F5Jw6eyp_4kecmb7CXM/view?usp=sharing)
 
-[Функциональное](https://chlist.sitechco.ru/project/43508/checklist/1508434/details) 
+[Функциональное](https://drive.google.com/file/d/1V3JqMpvYMbRb_76Y6eZMkDuC3KuMz6nf/view?usp=sharing) 
 
-[Приемочное](https://app.qase.io/project/QW1?suite=1)
+[Приемочное](https://drive.google.com/file/d/1RFpUztcsnpH1X3Y5Ii4iCJpr5vmc1j4R/view?usp=sharing)
 
-[Регрессионное](https://chlist.sitechco.ru/project/43508/checklist/1508873/details)
+[Регрессионное](https://drive.google.com/file/d/1qttt5YAJeW0M6ZNPrPi9fxVORmDsZxab/view?usp=sharing)
 
 ## 🗒 Тестовая документация
 
@@ -35,7 +35,7 @@
 
 ## 🐞 Баг-репорты
 
-🔗 [Jira](https://homework-qa31.atlassian.net/jira/software/c/projects/QW1/issues)
+🔗 [PDF export from Jira](https://drive.google.com/drive/folders/1BF6coFmrlZ4ZshWnYib36WgjzAggjsQc?usp=sharing)
 
 ## ☝️ Тестирование требований
 
