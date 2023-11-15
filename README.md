@@ -28,10 +28,18 @@
 
 ## 🗒 Тестовая документация
 
-- Тыц
+<details>
+  <summary>👇Тыц</summary>
     
-    [Untitled Database](%D0%9A%D1%83%D1%80%D1%81%D0%BE%D0%B2%D0%B0%D1%8F%20%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0,%201-%D0%B8%CC%86%20%D0%B8%202-%D0%B8%CC%86%20%D0%BA%D1%83%D1%80%D1%81%20QA44%20656e4375fa974a29b25765b97b5f5003/Untitled%20Database%2041404ccc80ec43a391f94bbd69d10077.csv)
-    
+| Вид тестирования | Отчет |
+| --- | --- |
+| [Чек-лист новой функциональности](https://drive.google.com/file/d/1V3JqMpvYMbRb_76Y6eZMkDuC3KuMz6nf/view?usp=drive_link) | [Тест-ран](https://drive.google.com/file/d/1z2A__wYiJT7UtFYHIkLw5wjCGX8_A9Ws/view?usp=sharing) |
+| [Регрессионный чек-лист](https://drive.google.com/file/d/1qttt5YAJeW0M6ZNPrPi9fxVORmDsZxab/view?usp=sharing) | [Тест-ран](https://drive.google.com/file/d/1Q0VojNA1Ymd1ZqEI3xlqttbBdKMeQfc3/view?usp=sharing) |
+| [Приемочное](https://drive.google.com/file/d/1RFpUztcsnpH1X3Y5Ii4iCJpr5vmc1j4R/view?usp=sharing) | [Тест-ран](https://drive.google.com/file/d/1bBrBdX7XTWu-dTCXpwj_iAddbLVbEeor/view?usp=sharing) |
+| [Smoke](https://drive.google.com/file/d/1v-HuvkwAJllK_F5Jw6eyp_4kecmb7CXM/view?usp=sharing) | [Тест-ран](https://drive.google.com/file/d/1p9UKiOQaza-zKvxndZBWC4DpCcovJ-VA/view?usp=sharing) |
+| [API-тестирование (Postman-collection)](https://drive.google.com/file/d/1NN1Z1os_G9X8v__kHSxHECw2T1hEin5G/view?usp=sharing) | [Тест-ран](https://drive.google.com/file/d/1LERFdhZbvL3cPY2XkUsFbxiYxEhY1_Ex/view?usp=sharing) |
+</details>
+
 
 ## 🐞 Баг-репорты
 
